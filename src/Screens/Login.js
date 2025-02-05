@@ -68,7 +68,7 @@ const Login = () => {
             {/* <Image source={require('../images/arrow.png')} style={{ width: 48, height: 48, alignSelf: 'center', marginTop: 50 }} /> */}
             
             </View>
-             
+             <Text>Hello Developer, welcome to pointstudio</Text>
             <Image source={require('../images/appicon.png')} style={{ width: 100, height: 100, alignSelf: 'center', marginTop: 100 }} />
             <Text style={{ marginTop: 50, alignSelf: 'center', fontSize: 30, fontWeight: '600', color: '#000' }}>Login</Text>
             
